@@ -1,3 +1,3 @@
-# Welcome to our World Happiness Project! 
+# Pierce County Housing Data Analysis
 
-This project is made by Rachel Seo, Madeleine Cummings, and Jia Park. We are planning on building a linear regression model to predict the happiness score of a particular country given different factors. Enjoy!
+This project is made by Rachel Seo, Madeleine Cummings, and Jia Park. We have built a linear regression model to predict the sale price of the houses in the area for future property sellers. 
